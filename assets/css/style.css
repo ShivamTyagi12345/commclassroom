@@ -1055,7 +1055,8 @@ section {
 # Contact
 --------------------------------------------------------------*/
 #contact {
-    background-color: #206bfb;
+    background-color: #0670AA;
+      
     color: #5f687b;
     font-size: 14px;
     position: relative;
@@ -1123,6 +1124,7 @@ section {
     font-size: 16px;
     padding: 0px;
     color: white;
+    display:inline-flex;
 }
 
 #contact .footer-top .foot2 span i {
